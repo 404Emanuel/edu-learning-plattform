@@ -1,0 +1,11 @@
+.container {
+display: grid;
+gap: 10px;
+grid-template-columns: 1fr 1fr;
+}
+
+.item {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
